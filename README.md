@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="100%" height="250" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380">
 <h1 align="center">Hi 👋, I'm Moayad Rajjoub</h1>
-<h3 align="center">A passionate Embedded Systems Engineer</h3>
+<h3 align="center">A passionate Electronic Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/MoaRajj/MoaRajj/assets/93192572/e0533d27-cb21-4017-8a2a-01d6feb2d0b9">
 
