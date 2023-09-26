@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="200" src="https://media.istockphoto.com/id/867291078/vector/engineering-banner-and-icons.jpg?s=612x612&w=0&k=20&c=fZUmICiGVAC_KGM7PjOiO8pj4ryhKqHaeJmVGvV8wo8=">
+<img align="center" alt="Coding" width="100%" height="300" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380">
 <h1 align="center">Hi 👋, I'm Moayad Rajjoub</h1>
 <h3 align="center">A passionate Embedded Systems Engineer</h3>
 
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moarajj&show_icons=true&locale=en" alt="moarajj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moarajj&" alt="moarajj" /></p>
-
