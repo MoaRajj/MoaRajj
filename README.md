@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **PLCs, Ladder Diagram.**
 
-- 👨‍💻 All of my projects are available in my repositories [https://github.com/MoaRajj?tab=repositories](https://github.com/MoaRajj?tab=repositories)
+- 👨‍💻 All of my projects are available in my **repositories.**
 
 - 💬 Ask me about **Arduino, Qt User Interface.**
 
 - 📫 How to reach me **moayyad612@hotmail.com**
 
-- 📄 Know about my experiences from my LinkedIn attached CV [www.linkedin.com/in/moayad-rajjoub-487665230](www.linkedin.com/in/moayad-rajjoub-487665230)
+- 📄 Know about my experiences from my **LinkedIn** account below :point_down: .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
