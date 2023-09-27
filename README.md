@@ -37,5 +37,4 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MoaRajj/MoaRajj/assets/93192572/aad05958-a436-4c95-b869-ba83f4892962">
-  <img src="https://github.com/MoaRajj/MoaRajj/assets/93192572/b984c1a8-16bf-4902-be4b-3f6d15dc7377">
 </picture>
