@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/MoaRajj/MoaRajj/assets/93192572/e0533d27-cb21-4017-8a2a-01d6feb2d0b9">
 
-- 🔭  I have recently finished working on a new project, check it out **[here](https://github.com/MoaRajj/Coating_Machine)**.
+- 🔭  I have recently finished working on a new project, check it out [**here**](https://github.com/MoaRajj/Coating_Machine).
 
 - 🌱 I’m currently learning **PLCs, Ladder Diagram.**
 
