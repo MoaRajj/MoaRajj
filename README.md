@@ -12,6 +12,10 @@
 
 - 💬 Ask me about **Arduino, Qt User Interface.**
 
+- 📝 I’m currently working on my first Article.
+
+- My Resume [here](https://github.com/MoaRajj/MoaRajj/blob/main/CV_Dark_Mode.pdf#gh-dark-mode-only)[here](https://github.com/MoaRajj/MoaRajj/blob/main/CV_Light_Mode.pdf#gh-light-mode-only).
+
 - 📫 How to reach me **moayyad612@hotmail.com**
 
 - 📄 Know about my experiences from my **LinkedIn** account below :point_down: .
